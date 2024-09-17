@@ -6,6 +6,7 @@
     <div style="display= flex; flex-direction: row;">
       <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
       <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+      <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
     </div>
   </div>
 </body>
