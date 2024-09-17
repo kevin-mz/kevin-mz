@@ -1,9 +1,9 @@
-<body style="width: 100vw; background: black;">
+<body>
   <div>
-    <p style="display: inline-flex; align-items: center; flex-direction: row;">Hi, I’m Kevin Martínez, Frontend Developer from Uruguay.</p>
+    <p>Hi, I’m Kevin Martínez, Frontend Developer from Uruguay.</p>
   </div>
   <div>
-    <div style="display= flex; flex-direction: row; width: 100%; justify-contenr: center;">
+    <div>
       <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
       <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
       <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
