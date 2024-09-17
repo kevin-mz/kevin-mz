@@ -1,4 +1,4 @@
-<body style="width: 100%;">
+<body style="width: 100vw;">
   <div>
     <p style="display: inline-flex; align-items: center; flex-direction: row;">Hi, I’m Kevin Martínez, Frontend Developer from Uruguay.</p>
   </div>
