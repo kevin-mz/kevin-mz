@@ -4,4 +4,3 @@
   <img style="width: 4rem;" src="https://img.icons8.com/?size=100&id=38273&format=png&color=02B3FF"/>
   <img style="width: 4rem;" src="https://img.icons8.com/?size=100&id=42769&format=png&color=02B3FF"/>
 </div>
-
