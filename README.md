@@ -4,7 +4,7 @@
   </div>
   <div style="height: 4rem">
     <img style="height: 100%;" src="https://img.icons8.com/?size=100&id=9nmz9TYzN8iO&format=png&color=02B3FF"/>
-    <img style="width: 4rem;" src="https://img.icons8.com/?size=100&id=38273&format=png&color=02B3FF"/>
-    <img style="width: 3rem;" src="https://img.icons8.com/?size=100&id=42769&format=png&color=02B3FF"/>
+    <img style="height: 100%; src="https://img.icons8.com/?size=100&id=38273&format=png&color=02B3FF"/>
+    <img style="height: 100%; src="https://img.icons8.com/?size=100&id=42769&format=png&color=02B3FF"/>
   </div>
 </body>
