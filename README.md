@@ -1,5 +1,5 @@
 
-  <div align="center">
+  <div>
     <p>Hi, I’m <b>Kevin Martínez</b>, Frontend Developer from Uruguay.</p>
     <div>
       <div>
