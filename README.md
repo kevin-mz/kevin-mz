@@ -4,8 +4,7 @@
   </div>
   <div>
     <div style="display= flex;">
-      <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-      <p>HTML</p>
+      <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/><p>HTML</p>
     </div>
   </div>
 </body>
