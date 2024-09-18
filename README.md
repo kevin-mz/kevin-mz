@@ -13,7 +13,7 @@
       </div>
       <div>
         <p>Technologies I'm learning.</p>
-        <img style="width: 2rem;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/>
+        <img style="width: 2rem; background: #001d29; padding: 0.5rem" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/>
       </div>
     </div>
   </div>
