@@ -17,6 +17,5 @@
   </div>
   <div style="display: flex;">
     <img style="height: 10rem; margin-top: 2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-mz&layout=compact&bg_color=001d29&title_color=02b3ff&text_color=ffffff" alt="Top Languages"/>
-    <img style="height: 10rem; margin-top: 2rem" src="https://github-readme-stats.vercel.app/api?username=kevin-mz&show_icons=true&bg_color=001d29&title_color=02b3ff&text_color=ffffff" alt="GitHub Stats"/>
   </div>
 </div>
