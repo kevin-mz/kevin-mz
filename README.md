@@ -18,6 +18,6 @@
     </div>
   </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-mz&layout=compact&bg_color=001d29&title_color=02b3ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-mz&layout=compact&bg_color=001d29&title_color=02b3ff&text_color=ffffff)
 
-![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=001d29)
+![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=001d29&title_color=02b3ff&text_color=ffffff)
